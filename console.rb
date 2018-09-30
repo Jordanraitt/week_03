@@ -59,5 +59,9 @@ ticket1.save
 ticket2.save
 ticket3.save
 
+customer1.films
+film2.customers
+film1.customers
+
 binding.pry
 nil
